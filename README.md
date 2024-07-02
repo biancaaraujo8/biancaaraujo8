@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+https://scratch.mit.edu/projects/1024281104/editor/
+https://editor.p5js.org/00001113940219sp/sketches/6mjv5BHI4
+https://docs.google.com/document/d/1p9M-IuV1UL4f4hPHOWnck3Qb3VkSO62jLHGzIgfZVYQ/edit?usp=sharing
+https://editor.p5js.org/00001113940219sp/sketches/S3HkgM7ky
 <!--
 **biancaaraujo8/biancaaraujo8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
